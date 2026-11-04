@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="t"><title id="t">SIDM community mark</title>
+<rect width="64" height="64" rx="14" fill="#102438"/>
+<path d="M18 20 33 12l15 11v19L33 52 18 42Z" fill="none" stroke="#7be3c4" stroke-width="3.2" stroke-linejoin="round"/>
+<path d="M18 20 33 34l15-11M33 34v18" stroke="#7be3c4" stroke-width="2.5" fill="none"/>
+<circle cx="18" cy="20" r="5" fill="#f7f4ed"/><circle cx="48" cy="23" r="5" fill="#f7f4ed"/><circle cx="33" cy="52" r="5" fill="#f7f4ed"/><circle cx="33" cy="34" r="5" fill="#7be3c4"/>
+</svg>
